@@ -2,15 +2,13 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  /* scroll-behavior: smooth; */
+  scroll-behavior: smooth;
   font-family: "poppins", sans-serif;
 }
 body {
   color: #ededed;
-  background: #081b29;
-
-  /* background-size: cover; */
-  /* background-position: center; */
+  background: url(blue-smooth-wall-textured-background.jpg) no-repeat;
+  background-size: cover;
 }
 
 .header {
@@ -19,7 +17,6 @@ body {
   left: 0;
   width: 100%;
   padding: 20px 10%;
-  background: #051129;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -57,9 +54,7 @@ body {
   width: 100%;
   justify-content: space-between;
   height: 100vh;
-  background: url(Wallpaper.jpg) no-repeat;
   background-size: cover;
-  background-position: center;
   display: flex;
   align-items: center;
   padding: 70px 10% 0;
@@ -193,11 +188,14 @@ body {
 }
 .about-img img {
   padding-bottom: 20%;
-  margin-top: 30%;
+  margin-top: 15%;
+  position: relative;
+  left: 20%;
   max-width: 630px;
-  height: auto;
-  width: auto;
-  border-radius: 8px;
+  height: 10%;
+  width: 40%;
+  /* border-radius: 8px; */
+  border-radius: 51% 49% 28% 72% / 27% 69% 31% 73%;
 }
 .about-text h2 {
   font-size: 60px;

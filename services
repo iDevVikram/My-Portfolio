@@ -1,0 +1,44 @@
+   <section>
+      <div class="services" id="services">
+        <div class="container">
+          <h1 class="sub-title">My <span>Services</span></h1>
+          <div class="services-list">
+            <div>
+              <i class="bx bx-code" style="color: #00eeff"></i>
+              <h2>TextEditor</h2>
+              <p>
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit
+                Sapiente sed culpa beatae non obcaecati ullam officiis
+                natus,tempora laborum! Omnis,recusandae minus! Quam id
+                pariatur,dignissimos sapiente quasi quibusdam?
+              </p>
+              <a href="#" class="read"> learn more</a>
+            </div>
+
+            <div>
+              <i class="bx bx-crop" style="color: #00eeff"></i>
+              <h2>TicTacToe Game</h2>
+              <p>
+                Lorem ipsum dolor sit, amet consectetur adipisicing
+                elit.Sapiente sed culpa beatae non obcaecati ullam officiis
+                natus,tempora laborum! Omnis,recusandae minus! Quam id
+                pariatur,dignissimos sapiente quasi quibusdam?
+              </p>
+              <a href="#" class="read"> learn more</a>
+            </div>
+
+            <div>
+              <i class="bx bxl-apple" style="color: #00eeff"></i>
+              <h2>Customer Management System</h2>
+              <p>
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                Sapiente sed culpa beatae non obcaecati ullam officiis
+                natus,tempora laborum! Omnis, recusandae minus! Quam id
+                pariatur,dignissimos sapiente quasi quibusdam?
+              </p>
+              <a href="#" class="read"> learn more</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
